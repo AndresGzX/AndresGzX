@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###  Tecnologias
+### Tecnologías
 
 ![JavaScript](https://shields.io)
 ![HTML5](https://shields.io)
@@ -24,16 +24,17 @@
 ![Python](https://shields.io)
 ![C](https://shields.io)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-###  Mis Estadísticas de GitHub 📊
+### Mis Estadísticas de GitHub 📊
 
 <div align="center">
   <img height="160em" src="https://vercel.app"/>
   <img height="160em" src="https://vercel.app"/>
 </div>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###  Conecta conmigo
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
+---
+
+### Conecta conmigo
+- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
 - 📧 **Correo:** ramrodandres672@gmail.com
