@@ -36,5 +36,5 @@
 ---
 
 ### Conecta conmigo
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
+- 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
 - 📧 **Correo:** ramrodandres672@gmail.com
