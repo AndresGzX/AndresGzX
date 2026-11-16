@@ -13,27 +13,31 @@
 
 ### Tecnologías
 
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Figma](https://shields.io)
-![Docker](https://shields.io)
-![Azure](https://shields.io)
-![Python](https://shields.io)
-![C](https://shields.io)
+### Tecnologías
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Mis Estadísticas de GitHub 📊
 
 ### Mis Estadísticas de GitHub 📊
 
 <div align="center">
-  <img height="160em" src="https://vercel.app"/>
-  <img height="160em" src="https://vercel.app"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndresGzX&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGzX&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Conecta conmigo
 - 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
