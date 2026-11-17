@@ -47,5 +47,7 @@ I'm also learning more about web development and software architecture.
 ---
 
 ### Connect with me
-- 💼 **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
-- 📧 **Email:** ramrodandres672@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramrodandres672@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gxz_andriux)
