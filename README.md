@@ -1,19 +1,17 @@
-# ¡Bienvenido a mi Github! 
+# Welcome to my GitHub!
 
-  Bienvenido a mi perfil de GitHub. 
+Welcome to my GitHub profile.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-###  Sobre mí
-  Soy un desarrollador a quien le gusta la programación y la creación de proyectos nuevos mientras aprendo de nuevas tecnologías cada día.
-  Actualmente estoy trabajando en proyectos propios con el uso de nuevas tecnologías.
-  Asimismo, estoy aprendiendo más sobre desarrollo web y arquitectura de software.
+### About me
+I'm a developer who loves programming and creating new projects while learning about new technologies every day.
+I'm currently working on personal projects using new technologies.
+I'm also learning more about web development and software architecture.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### Tecnologías
-
-### Tecnologías
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,9 +24,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### Mis Estadísticas de GitHub 📊
+### My GitHub Stats 📊
 
 <div align="center">
 
@@ -38,8 +36,8 @@
 
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### Conecta conmigo
-- 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
-- 📧 **Correo:** ramrodandres672@gmail.com
+### Connect with me
+- 💼 **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez-rodr%C3%ADguez-5166b1335)
+- 📧 **Email:** ramrodandres672@gmail.com
