@@ -30,11 +30,12 @@
 
 ### Mis Estadísticas de GitHub 📊
 
-### Mis Estadísticas de GitHub 📊
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndresGzX&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGzX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+[![](https://raw.githubusercontent.com/AndresGzX/AndresGzX/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AndresGzX/AndresGzX/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AndresGzX/AndresGzX/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AndresGzX/AndresGzX/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AndresGzX/AndresGzX/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
