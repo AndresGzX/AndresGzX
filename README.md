@@ -1,7 +1,9 @@
 # Welcome to my GitHub!
 
 Welcome to my GitHub profile.
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=AndresGzX&fontSize=60&animation=fadeIn" width="100%"/>
+</p>
 ---
 
 ### About me
